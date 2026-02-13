@@ -197,3 +197,57 @@ main{
 }
 
 /* main section ends here */
+
+
+/* footer section starts here */
+
+footer{
+    background: rgb(244, 244, 244);
+    font-size: 0.8rem;
+}
+
+
+footer > div{
+    padding: 1rem;
+}
+
+
+.footer-grid{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 1rem;
+}
+
+
+.footer-links{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+
+.footer-links-1:hover, .footer-links-2:hover, .footer-links-3:hover, .footer-links-4:hover, .footer-links-5:hover, .footer-links-6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+/* Responsive */
+
+@media screen and (max-width: 600px){
+    .footer-grid{
+        flex-direction: column;
+    }   
+}
+
+
+@media screen and (max-width: 302px){
+    footer{
+        font-size: 0.5rem;
+    } 
+}
+
+
+
+/* footer section ends here */
