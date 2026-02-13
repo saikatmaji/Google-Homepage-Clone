@@ -97,3 +97,103 @@ body{
 }
 
 /* header section ends here */
+
+
+/* main section starts here */
+
+main{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 4rem 1rem;
+}
+
+
+.input-bar{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+    max-width: 500px;
+    border: 3px solid rgb(235, 235, 235);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+
+.input-bar:hover, .input-bar:focus-within{
+    box-shadow: 0 0 4px 1px rgb(237, 237, 237);
+}
+
+
+.input-bar div{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+
+.input-bar input{
+    flex: 1;
+    border: none;
+    outline: none;
+    width: 100%;
+}
+
+
+.title-text{
+    font-size: 3rem;
+}
+
+
+.input-icon{
+    background: transparent;
+    border: none;
+}
+
+
+.input-icon:hover{
+    opacity: 0.6;
+}
+
+
+.button-grid{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+
+.button-grid button{
+    padding: 0.5rem 1rem;
+    border: 1px solid transparent;
+    background: rgb(247, 247, 247);
+    border-radius: 0.25rem;
+}
+
+
+.button-grid button:hover{
+    border: 1px solid slategray;
+}
+
+
+.lang-link{
+    color: blue;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.lang-text{
+    font-size: 0.7rem;
+}
+
+
+.lang-link:hover{
+    text-decoration: underline;
+}
+
+/* main section ends here */
