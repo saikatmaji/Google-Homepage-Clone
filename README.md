@@ -9,3 +9,9 @@ A simple **Google Homepage Landing Page Clone** built using **HTML5**, **CSS3** 
 🌐 [Visit the Live Site](https://google-homepagee-clonee.netlify.app/)
 
 ---
+
+## 📸 Screenshots
+
+![Screenshot](./screenshot.png)
+
+---
