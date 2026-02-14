@@ -46,3 +46,12 @@ Saikat Maji
 </p>
 
 ---
+
+## ⭐ Show Your Support!
+
+- Star this repo
+- Fork it
+- Contribute
+- Share on social media
+
+---
