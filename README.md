@@ -24,3 +24,11 @@ A simple **Google Homepage Landing Page Clone** built using **HTML5**, **CSS3** 
 - ✨ Interactive Hover Effects – Buttons and links respond smoothly on hover.
 
 ---
+
+## 🛠️ Tech Stack
+
+- HTML5 – Structured the webpage content and layout
+- CSS3 – Customized styling and UI enhancements
+- Bootstrap 5 – Responsive grid system & utility classes
+
+---
