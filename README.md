@@ -15,3 +15,12 @@ A simple **Google Homepage Landing Page Clone** built using **HTML5**, **CSS3** 
 ![Screenshot](./screenshot.png)
 
 ---
+
+## 📌 Features
+
+- 📱 Responsive Design – Optimized for Mobile, Tablet, and Desktop devices.
+- 🎨 Clean & Minimal UI – Simple and modern interface inspired by Google.
+- 🔍 Styled Search Bar – Rounded input field with smooth focus effects.
+- ✨ Interactive Hover Effects – Buttons and links respond smoothly on hover.
+
+---
