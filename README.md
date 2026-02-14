@@ -12,7 +12,7 @@ A simple **Google Homepage Landing Page Clone** built using **HTML5**, **CSS3** 
 
 ## 📸 Screenshots
 
-![Screenshot](./screenshot.png)
+![Screenshot](./public/screenshot.png)
 
 ---
 
@@ -30,5 +30,19 @@ A simple **Google Homepage Landing Page Clone** built using **HTML5**, **CSS3** 
 - HTML5 – Structured the webpage content and layout
 - CSS3 – Customized styling and UI enhancements
 - Bootstrap 5 – Responsive grid system & utility classes
+
+---
+
+## 🧑‍💻 Developer
+
+<p>
+Saikat Maji
+<br>
+🌟 Frontend Developer | Tech Explorer | Passionate Builder
+<br>
+🔗
+<a href="https://github.com/saikatmaji">GitHub</a> •
+<a href="https://www.linkedin.com/in/saikatmaji/">LinkedIn</a>
+</p>
 
 ---
