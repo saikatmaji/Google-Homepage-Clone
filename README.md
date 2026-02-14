@@ -55,3 +55,10 @@ Saikat Maji
 - Share on social media
 
 ---
+
+## 🧾 License
+
+This project is for educational purposes only.  
+All content, images, and branding belong to [Google](https://www.google.com/).
+
+---
