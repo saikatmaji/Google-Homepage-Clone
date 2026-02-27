@@ -249,5 +249,12 @@ footer > div{
 }
 
 
+@media screen and (max-width: 302px){
+    .title-text{
+    font-size: 4.5rem;
+}
+}
+
+
 
 /* footer section ends here */
