@@ -12,7 +12,7 @@ A simple **Google Homepage Landing Page Clone** built using **HTML5**, **CSS3** 
 
 ## 📸 Screenshots
 
-![Screenshot](./public/screenshot.png)
+![Screenshot](./public/screenshot_image.png)
 
 ---
 
