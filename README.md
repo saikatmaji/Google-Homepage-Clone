@@ -1,6 +1,6 @@
 # ⚡ Google Homepage Clone
 
-A simple **Google Homepage Clone** built using **HTML5** and **CSS3** and **Bootstrap**. This project replicates the UI of Google's main search page for learning and practice purposes.
+A simple and responsive **Google Homepage Clone** built using **HTML5** and **CSS3** and **Bootstrap**. This project replicates the UI of Google's main search page for learning and practicing front-end web development fundamentals.
 
 ---
 
