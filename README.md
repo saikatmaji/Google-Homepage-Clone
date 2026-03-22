@@ -20,7 +20,7 @@ A simple and responsive **Google Homepage Clone** built using **HTML5** and **CS
 
 - 📱 Responsive Design – Optimized for Mobile, Tablet, and Desktop devices.
 - 🎨 Clean & Minimal UI – Simple and modern interface inspired by Google.
-- 🔍 Styled Search Bar – Rounded input field with smooth focus effects.
+- 🔍 Styled Search Bar – Rounded input field with clean styling and focus effects.
 - ✨ Interactive Hover Effects – Buttons and links respond smoothly on hover.
 
 ---
