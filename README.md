@@ -48,9 +48,9 @@ Full Stack Developer | Tech Explorer | Passionate Builder
 
 ## ⭐ Show Your Support!
 
-- Star this repo
-- Fork it
-- Contribute
+- Star this repository
+- Fork the repository
+- Contribute to the project
 - Share on social media
 
 ---
