@@ -59,6 +59,6 @@ Full Stack Developer | Tech Explorer | Passionate Builder
 ## 🧾 License
 
 This project is for educational purposes only.  
-All content, images, and branding belong to [Google](https://www.google.com/).
+This is an independent front-end practice project and is not affiliated with or endorsed by Google. Google and its related branding are trademarks of Google LLC.
 
 ---
