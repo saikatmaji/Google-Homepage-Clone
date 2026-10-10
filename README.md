@@ -38,7 +38,7 @@ A simple and responsive **Google Homepage Clone** built using **HTML5** and **CS
 <p>
 Saikat Maji
 <br>
-Full Stack Developer | Tech Explorer | Passionate Builder
+Frontend Developer | Tech Explorer | Passionate Builder
 <br>
 <a href="https://github.com/saikatmaji">GitHub</a> |
 <a href="https://www.linkedin.com/in/saikatmaji/">LinkedIn</a> |
